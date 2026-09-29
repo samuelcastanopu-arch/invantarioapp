@@ -1,0 +1,8 @@
+com.stockos.app-pngs-0 C:\Users\juank\Downloads\stooks\stooks\app\build\generated\res\pngs\debug
+com.stockos.app-updated_navigation_xml-1 C:\Users\juank\Downloads\stooks\stooks\app\build\generated\updated_navigation_xml\debug
+com.stockos.app-packageDebugResources-2 C:\Users\juank\Downloads\stooks\stooks\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.stockos.app-packageDebugResources-3 C:\Users\juank\Downloads\stooks\stooks\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.stockos.app-debug-4 C:\Users\juank\Downloads\stooks\stooks\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.stockos.app-debug-5 C:\Users\juank\Downloads\stooks\stooks\app\src\debug\res
+com.stockos.app-main-6 C:\Users\juank\Downloads\stooks\stooks\app\src\main\res
+gradleHome-0 C:\Users\juank\.gradle
